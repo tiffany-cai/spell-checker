@@ -9,7 +9,7 @@ The spell checker is implemented using quadratic probing.  It inputs all diction
 
 One issue I had was figuring out how to convert everything to lowercase and remove punctuation.  I found that that tolower and ispunct is built in to c++ and used that.
 
-To compile and run the program:
+To compile and run the program in terminal:
 
 Compile everything by typing 
 
